@@ -218,3 +218,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+webapp_completo/python_embed/
