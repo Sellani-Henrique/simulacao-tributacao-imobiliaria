@@ -230,7 +230,7 @@ def formatar_mega_fortunas(valor):
 # =========================================================================
 # INTERFACE DO STREAMLIT
 # =========================================================================
-st.title("🪙 Terminal de Tributação Imobiliária Multidimensional")
+st.title("🪙 Simulador de Tributação Imobiliária")
 st.markdown("Bem-vindo ao sistema analítico de tributação inteligente. Este simulador calcula impostos progressivos com base na função social e acúmulo patrimonial.")
 
 # Parâmetros na Barra Lateral
